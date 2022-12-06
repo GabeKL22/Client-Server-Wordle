@@ -1,11 +1,5 @@
 /*
-Author:        Devin Ellis
-Major:         Computer Science
-Creation Date: November 11, 2022
-Due Date:      November 29, 2022
-Course:        CSC 328
-Professor:     Dr. Frye
-Assignment:    Wordle Project
+Author:        Gabriel Leffew & Devin Ellis(gameplay)
 Filename:      client.c
 Purpose:       This file has the client application for Wordle Server.
 			   Using TCP connection, The client will receive a word	
