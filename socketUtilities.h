@@ -1,16 +1,4 @@
-/*
-Author:        Dominic Rando
-Major:         Computer Science
-Creation Date: November 12, 2022
-Due Date:      November 29, 2022
-Course:        CSC 328
-Professor:     Dr. Frye
-Assignment:    Wordle Project
-Filename:      socketUtilities.h
-Purpose:       This file defines the headers to the library socketUtilities.c
-               This file is to be #included in the client and server programs
-               so that there won't be any warning messages thrown upon compiling
-*/
+
 
 /*
 Function Name:	indexOfTerminator
