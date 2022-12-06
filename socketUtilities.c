@@ -1,16 +1,4 @@
-/*
-Author:        Dominic Rando
-Major:         Computer Science
-Creation Date: November 11, 2022
-Due Date:      November 29, 2022
-Course:        CSC 328
-Professor:     Dr. Frye
-Assignment:    Wordle Project
-Filename:      socketUtilities.c
-Purpose:       This file has the implementations from socketUtilities.h.
-               Each function is meant to facilitate proper connections between
-               client and server by incorporating error checking in this library
-*/
+
 
 // FUNCTION DOCUMENTATION IS IN socketUtilities.h
 
