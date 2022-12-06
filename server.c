@@ -1,14 +1,8 @@
 /*
 Author:        Gabriel Leffew
-Major:         Computer Science
-Creation Date: November 15th, 2022
-Due Date:      November 29th, 2022
-Course:        CSC 328
-Professor:     Dr. Frye
-Assignment:    Wordle
 Filename:      server.c
 Purpose:       This file has the server application for Wordle Server.
-			   Using TCP connection, The client will start and wait for 
+	       Using TCP connection, The client will start and wait for 
                client connections, upion receiving a message (request) for
                'WORD' the server will send a random word to the client from
                word_list. When the server receives a 'QUIT' from the client
